@@ -66,7 +66,7 @@
 
 
 ### Thanks To
-- [Suhail-MD] (https://github.com/SuhailTechInfo)
+- [Suhail-MD](https://github.com/SuhailTechInfo)
 
 
 <h2 align="center">  NOTICE
