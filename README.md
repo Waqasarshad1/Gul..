@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <a href="[https://github.com/Waqasarshad1/Gul...git"><b>Sahil-XD</b></a> Support Deploy On...
+  <a href="[https://github.com/Waqasarshad1/Gul...git">
 </p>
 
 
@@ -66,8 +66,7 @@
 
 
 ### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
-- [Suhail-MD] (https://github.com/SuhailTechInfo
+- [Suhail-MD] (https://github.com/SuhailTechInfo)
 
 
 <h2 align="center">  NOTICE
